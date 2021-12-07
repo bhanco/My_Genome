@@ -1,5 +1,5 @@
 # My_Genome
-Temporary repository for my powerpoint with notes on my genetic variants associated with atopic dermatits 
+Temporary repository for powerpoint with notes on my genetic variants associated with atopic dermatits 
 
 ## Sequencing 
 Sequencing was done through [Nebula Genomics](https://nebula.org/whole-genome-sequencing-dna-test/) 30x whole genome sequencing service 
